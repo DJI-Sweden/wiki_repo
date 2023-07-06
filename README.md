@@ -28,7 +28,7 @@ Men `GitHub Desktop` bör fungera bra för ditt behov.
 
 Om du inte ingår i DJI Swedens wiki-team måste du skapa en `Fork` till ditt eget GitHub-konto med `Fork - + Create a new fork`
 
-![Create a new fork](./2023-07-06-15-57-24.png)
+![Create a new fork](./blob/master/images/2023-07-06-15-57-24.png)
 
 Sedan kopierar du ner hela wiki-repot till din egen maskin med kommandot
 
@@ -73,15 +73,15 @@ Synken tar bara med det som du gjort `commit` på.
 
 När du är klar med ditt arbete i din arbetsyta och synkat upp den så letar du upp din arbetsyta (brancher) med `View all branches`
 
-[[/images/2023-07-06-16-27-02.png|View all branches]]
+![View all branches](./blob/master/images/2023-07-06-16-27-02.png)
 
 och klickar på `New pull request`
 
-[[/images/2023-07-06-16-30-53.png|New pull request]]
+![New pull request](./blob/master/images/2023-07-06-16-30-53.png)
 
 Fyll i en kort men beskrivande titel
 
-[[/images/2023-07-06-16-31-56.png|Create pull request]]
+![Create pull request](./blob/master/images/2023-07-06-16-31-56.png)
 
 och klicka på `Create pull request`.
 
