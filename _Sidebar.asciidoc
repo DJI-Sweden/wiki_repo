@@ -1,0 +1,36 @@
+.10 - Flyga drönare första gången
+[%collapsible]
+====
+. link:./01-10-Enkla-Steg[Kom igång med 10 enkla steg]
+. link:./02-Vilka-regler-gäller-för-att-flyga-drönare[Vilka regler gäller?]
+. link:./03-Vad-gör-jag-om-jag-kraschat-med-min-drönare[Vad gör jag om jag kraschat med min drönare?]
+. link:./04-Finns-det-några-bra-övningar-för-att-lära-mig-flyga-bättre[Bra övningar för att flyga bättre]
+. link:./05-Hur-nära-får-jag-flyga-en-byggnad-med-tyngsta-drönarklassen[Hur nära får jag flyga med de tyngsta drönarna?]
+. link:./06-Vad-är-kränkande-fotografering[Vad är kränkande forotgrafering?]
+. link:./07-Vad-gör-jag-om-en-arg-granne-klagar-på-mig[Vad gör jag om en arg granne klagar?]
+. link:./08-Vad-är-en-fjärrpilot[Vad är en fjärrpilot?]
+. link:./09-Hur-vet-jag-om-jag-får-flyga-på-en-viss-plats[Var får jag flyga?]
+. link:./10-Varför-vill-min-drönare-inte-lyfta[Varför vill drönaren inte starta?]
+. link:./11-Vad-är-kontrollerat-luftrum[Vad är kontrollerat luftrum?]
+. link:./12-Varför-behöver-jag-Spridningstillstånd[Varför behöver jag Spridningstillstånd?]
+. link:./13-Hur-högt-får-jag-flyga-med-min-drönare[Hur högt får jag flyga?]
+. link:./14-Hur-långt-bort-får-jag-flyga-min-drönare[Hur långt får jag flyga?]
+. link:./15-Varför-tappar-jag-kontakten-med-min-drönare-efter-bara-50-meter[Varför tappar jag kontakten efter bara 50 m?]
+. link:./16-Måste-min-drönare-vara-märkt-med-något-ID[Varför måste jag märka min drönare?]
+. link:./17-Hur-gör-jag-om-min-drönare-gått-sönder[Hur gör jag om min drönare går sönder?]
+. link:./18-DJI-Care[Vad är DJI Care?]
+. link:./19-Kan-jag-flyga-över-vatten[Kan jag flyga över vatten?]
+. link:./20-Hur-gör-jag-om-drönaren-droppat-i-vatten[Hur gör jag om drönaren droppat i vatten?]
+. link:./21-Är-det-ok-att-flyga-med-skadade-eller-svullna-batterier[Är det ok att flyga med skadade delar?]
+. link:./22-Varför-landar-min-drönare-direkt-när-jag-trycker-på-RTH[Varför landar inte drönaren när jag trycker på RTH?]
+. link:./23-Vad-gör-jag-om-fåglar-verkar-attackera-min-drönare[Vad gör jag åt aggresiva fåglar?]
+. link:./24-Hur-gör-jag-om-jag-vill-flyga-flera-kilometer-bort-med-min-drönare[Hur gör jag om jag ändå vill flyga långt?]
+. link:./25-Vilket-SD---kort-ska-jag-ha-i-min-drönare[Vilket SD-kort ska jag använda?]
+. link:./26-Var-kan-jag-övningsflyga-min-drönare-ifred[Var kan jag ävningsflyga i fred?]
+====
+
+.20 - Nästa område
+[%collapsible]
+====
+. Kommer mer...
+====

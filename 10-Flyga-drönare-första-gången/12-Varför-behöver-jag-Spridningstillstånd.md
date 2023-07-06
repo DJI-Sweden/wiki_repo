@@ -1,0 +1,3 @@
+﻿Det är enligt lag förbjudet att sprida bilder på skyddsobjekt med avbildningsförbud (fängelse upp till 1 år) eller geografisk information. För att garantera att bilderna får spridas, ansöker du om Spridningstillstånd hos Lantmäteriet eller Sjöfartsverket beroende på om det är land eller hav på materialet.
+
+Se mer i vår Wiki om Spridningstillstånd...
