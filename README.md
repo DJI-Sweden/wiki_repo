@@ -73,15 +73,15 @@ Synken tar bara med det som du gjort `commit` på.
 
 När du är klar med ditt arbete i din arbetsyta och synkat upp den så letar du upp din arbetsyta (brancher) med `View all branches`
 
-![View all branches](./2023-07-06-16-27-02.png)
+[[/images/2023-07-06-16-27-02.png|View all branches]]
 
 och klickar på `New pull request`
 
-![New pull request](2023-07-06-16-30-53.png)
+[[/images/2023-07-06-16-30-53.png|New pull request]]
 
 Fyll i en kort men beskrivande titel
 
-![Create pull request](2023-07-06-16-31-56.png)
+[[/images/2023-07-06-16-31-56.png|Create pull request]]
 
 och klicka på `Create pull request`.
 
@@ -98,6 +98,7 @@ Ingen ändring kommer att synas förrän ansvarig för DJI Sweden Wiki synkar de
 * [Git for Windows](https://git-scm.com/download/win)
 * [GitHub Desktop](https://desktop.github.com/)
 * [Git and GitHub Introduction](https://www.w3schools.com/git/git_intro.asp?remote=github)
+* [GitHub Wiki - Howto](https://gist.github.com/subfuzion/0d3f19c4f780a7d75ba2)
 * [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
 * [Zettlr](https://www.zettlr.com/download)
 * [Visual Studio Code](https://code.visualstudio.com/download)
