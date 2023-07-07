@@ -91,4 +91,5 @@
 ====
 [decimal,start=1]
 . link:10-ETSI-Maximum-Transmission-Power[ETSI - Maximum Transmission Power]
+. link:20-Radiolära.md[Radiolära]
 ====
