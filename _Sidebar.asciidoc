@@ -26,11 +26,12 @@
 . link:./23-Vad-gör-jag-om-fåglar-verkar-attackera-min-drönare[Vad gör jag åt aggresiva fåglar?]
 . link:./24-Hur-gör-jag-om-jag-vill-flyga-flera-kilometer-bort-med-min-drönare[Hur gör jag om jag ändå vill flyga långt?]
 . link:./25-Vilket-SD---kort-ska-jag-ha-i-min-drönare[Vilket SD-kort ska jag använda?]
-. link:./26-Var-kan-jag-övningsflyga-min-drönare-ifred[Var kan jag ävningsflyga i fred?]
+. link:./26-Var-kan-jag-övningsflyga-min-drönare-ifred[Var kan jag övningsflyga i fred?]
 ====
 
 .20 - Nya drönarreglerna from. 2024-01-01
 [%collapsible]
 ====
-. Kommer mer...
+. link:Varför-är-OperatörsIDt-så-långt[Varför är Operatörs-ID:t så långt?]
+. link:Behöver-jag-en-ansvarsförsäkring-för-att-flyga[Behöver jag en ansvarsförsäkring?]
 ====
