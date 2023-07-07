@@ -43,4 +43,5 @@
 . link:Vad-är-allting-med-A-och-C-för-något[Vad är allting med A och C för något?]
 . link:Vad-är-skillnaden-mellan-operatör-och-drönarpilot[Vad är skillnaden mellan operatör och drönarpilot?]
 . link:Vad-är-skillnaden-mellan-CE----och-C---märkning[Vad är skillnaden mellan CE- och C-märkning?]
+. link:Hur-tar-jag-drönarkortet[Hur tar jag drönarkortet?]
 ====
