@@ -83,4 +83,5 @@
 . link:10-Drönare-och-skyddad-natur[Drönare och skyddad natur]
 . link:20-Typer-av-skyddad-natur[Typer av skyddad natur]
 . link:30-Kartverktyget[Kartverktyget]
+. link:40-Reservarkartan[Reservarkartan]
 ====
