@@ -1,6 +1,7 @@
 .10 - Flyga drönare första gången
 [%collapsible]
 ====
+[decimal,start=1]
 . link:./01-10-Enkla-Steg[Kom igång med 10 enkla steg]
 . link:./02-Vilka-regler-gäller-för-att-flyga-drönare[Vilka regler gäller?]
 . link:./03-Vad-gör-jag-om-jag-kraschat-med-min-drönare[Vad gör jag om jag kraschat med min drönare?]
@@ -32,6 +33,7 @@
 .20 - Nya drönarreglerna (2024-01-01)
 [%collapsible]
 ====
+[decimal,start=1]
 . link:Varför-är-OperatörsIDt-så-långt[Varför är Operatörs-ID:t så långt?]
 . link:Behöver-jag-en-ansvarsförsäkring-för-att-flyga[Behöver jag en ansvarsförsäkring?]
 . link:Hur-registrerat-jag-mig-som-operatör[Hur registrerat jag mig som operatör?]
@@ -54,6 +56,7 @@
 .30 - Spridningstillstånd LM/SFV
 [%collapsible]
 ====
+[decimal,start=1]
 . link:Varför-får-jag-foto-från-ett-högt-hus-men-inte-med-en-drönare-där[Varför får jag foto från ett högt hus men inte med en drönare där?]
 . link:Vad-är-ett-skyddsobjekt[Vad är ett skyddsobjekt]
 . link:LM---Spridningstillstånd[LM - Spridningstillstånd]
@@ -64,4 +67,18 @@
 . link:SFV---Spridningstillstånd[SFV - Spridningstillstånd]
 . link:SFV---Ansökan-om-Spridningstillstånd[SFV - Ansökan om Spridningstillstånd]
 . link:Skyddslagen[Skyddslagen]
+====
+
+.40 - EU-direktiv och föreskrifter
+[%collapsible]
+====
+[decimal,start=0]
+. link:99-Övergångsregler[Övergångsregler]
+====
+
+.50 - Naturvårdsverket & Länsstyrelsen
+[%collapsible]
+====
+[decimal,start=0]
+. link:10-Drönare-och-skyddad-natur[Drönare och skyddad natur]
 ====
