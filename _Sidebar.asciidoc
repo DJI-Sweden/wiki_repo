@@ -45,4 +45,5 @@
 . link:Vad-är-skillnaden-mellan-CE----och-C---märkning[Vad är skillnaden mellan CE- och C-märkning?]
 . link:Hur-tar-jag-drönarkortet[Hur tar jag drönarkortet?]
 . link:Hur-gör-jag-testet-för-drönarkort[Hur gör jag testet för drönarkort?]
+. link:Vilken-klass-tillhör-min-gamla-drönare[Vilken klass tillhör min gamla drönare?]
 ====
