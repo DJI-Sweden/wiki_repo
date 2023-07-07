@@ -42,4 +42,5 @@
 . link:Varför-måste-jag-ta-drönarkort[Varför måste jag ta drönarkort?]
 . link:Vad-är-allting-med-A-och-C-för-något[Vad är allting med A och C för något?]
 . link:Vad-är-skillnaden-mellan-operatör-och-drönarpilot[Vad är skillnaden mellan operatör och drönarpilot?]
+. link:Vad-är-skillnaden-mellan-CE----och-C---märkning[Vad är skillnaden mellan CE- och C-märkning?]
 ====
