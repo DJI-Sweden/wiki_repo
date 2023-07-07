@@ -85,3 +85,12 @@
 . link:30-Kartverktyget[Kartverktyget]
 . link:40-Reservarkartan[Reservarkartan]
 ====
+
+.50 - Naturvårdsverket & Länsstyrelsen
+[%collapsible]
+====
+[decimal,start=1]
+. link:10-ETSI-Maximum-Transmission-Power[ETSI - Maximum Transmission Power]
+. link:20-Radiolära.md[Radiolära]
+- link:30-FCC-Wireless-Communication[FCC - Wireless Communication]
+====
