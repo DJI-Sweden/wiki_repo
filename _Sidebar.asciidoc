@@ -26,11 +26,27 @@
 . link:./23-Vad-gör-jag-om-fåglar-verkar-attackera-min-drönare[Vad gör jag åt aggresiva fåglar?]
 . link:./24-Hur-gör-jag-om-jag-vill-flyga-flera-kilometer-bort-med-min-drönare[Hur gör jag om jag ändå vill flyga långt?]
 . link:./25-Vilket-SD---kort-ska-jag-ha-i-min-drönare[Vilket SD-kort ska jag använda?]
-. link:./26-Var-kan-jag-övningsflyga-min-drönare-ifred[Var kan jag ävningsflyga i fred?]
+. link:./26-Var-kan-jag-övningsflyga-min-drönare-ifred[Var kan jag övningsflyga i fred?]
 ====
 
-.20 - Nästa område
+.20 - Nya drönarreglerna from. 2024-01-01
 [%collapsible]
 ====
-. Kommer mer...
+. link:Varför-är-OperatörsIDt-så-långt[Varför är Operatörs-ID:t så långt?]
+. link:Behöver-jag-en-ansvarsförsäkring-för-att-flyga[Behöver jag en ansvarsförsäkring?]
+. link:Hur-registrerat-jag-mig-som-operatör[Hur registrerat jag mig som operatör?]
+. link:Gäller-drönarkortet-utanför-Sverige[Gäller drönarkortet utanför Sverige?]
+. link:Var-hittar-jag-enklast-information-om-de-nya-drönarreglerna[Var hittar jag enklast information om de nya drönarreglerna?]
+. link:Finns-det-någon-annan-FAQ-på-nätet-än-den-här.md[Finns det någon annan FAQ på nätet än den här?]
+. link:Måste-jag-registrera-min-drönare.[Måste jag registrera min drönare?]
+. link:Varför-måste-jag-ta-drönarkort[Varför måste jag ta drönarkort?]
+. link:Vad-är-allting-med-A-och-C-för-något[Vad är allting med A och C för något?]
+. link:Vad-är-skillnaden-mellan-operatör-och-drönarpilot[Vad är skillnaden mellan operatör och drönarpilot?]
+. link:Vad-är-skillnaden-mellan-CE----och-C---märkning[Vad är skillnaden mellan CE- och C-märkning?]
+. link:Hur-tar-jag-drönarkortet[Hur tar jag drönarkortet?]
+. link:Hur-gör-jag-testet-för-drönarkort[Hur gör jag testet för drönarkort?]
+. link:Vilken-klass-tillhör-min-gamla-drönare[Vilken klass tillhör min gamla drönare?]
+. link:Vilken-klass-tillhör-min-drönare-(inköpt-efter-2024---01---01)[Vilken klass tillhör min drönare (inköpt efter 2024-01-01)]
+. link:Kan-en-drönare-C---klassas-i-efterhand[Kan en drönare C-klassas i efterhand?]
+. link:Vilket-drönarkort-ska-jag-ta-(A1A3-eller-A2)[Vilket drönarkort ska jag ta (A1/A3 eller A2)?]
 ====
