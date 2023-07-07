@@ -38,4 +38,5 @@
 . link:Gäller-drönarkortet-utanför-Sverige[Gäller drönarkortet utanför Sverige?]
 . link:Var-hittar-jag-enklast-information-om-de-nya-drönarreglerna[Var hittar jag enklast information om de nya drönarreglerna?]
 . link:Finns-det-någon-annan-FAQ-på-nätet-än-den-här.md[Finns det någon annan FAQ på nätet än den här?]
+. link:Måste-jag-registrera-min-drönare.[Måste jag registrera min drönare?]
 ====
