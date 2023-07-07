@@ -47,4 +47,5 @@
 . link:Hur-gör-jag-testet-för-drönarkort[Hur gör jag testet för drönarkort?]
 . link:Vilken-klass-tillhör-min-gamla-drönare[Vilken klass tillhör min gamla drönare?]
 . link:Vilken-klass-tillhör-min-drönare-(inköpt-efter-2024---01---01)[Vilken klass tillhör min drönare (inköpt efter 2024-01-01)]
+. link:Kan-en-drönare-C---klassas-i-efterhand[Kan en drönare C-klassas i efterhand?]
 ====
