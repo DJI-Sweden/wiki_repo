@@ -35,4 +35,5 @@
 . link:Varför-är-OperatörsIDt-så-långt[Varför är Operatörs-ID:t så långt?]
 . link:Behöver-jag-en-ansvarsförsäkring-för-att-flyga[Behöver jag en ansvarsförsäkring?]
 . link:Hur-registrerat-jag-mig-som-operatör[Hur registrerat jag mig som operatör?]
+. link:Gäller-drönarkortet-utanför-Sverige[Gäller drönarkortet utanför Sverige?]
 ====
