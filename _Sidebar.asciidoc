@@ -36,4 +36,5 @@
 . link:Behöver-jag-en-ansvarsförsäkring-för-att-flyga[Behöver jag en ansvarsförsäkring?]
 . link:Hur-registrerat-jag-mig-som-operatör[Hur registrerat jag mig som operatör?]
 . link:Gäller-drönarkortet-utanför-Sverige[Gäller drönarkortet utanför Sverige?]
+. link:Var-hittar-jag-enklast-information-om-de-nya-drönarreglerna[Var hittar jag enklast information om de nya drönarreglerna?]
 ====
