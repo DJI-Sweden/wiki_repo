@@ -55,4 +55,6 @@
 [%collapsible]
 ====
 . link:Varför-får-jag-foto-från-ett-högt-hus-men-inte-med-en-drönare-där[Varför får jag foto från ett högt hus men inte med en drönare där?]
+. link:Vad-är-ett-skyddsobjekt[Vad är ett skyddsobjekt]
+. link:Spridningstillstånd---LM[Spridningstillstånd - LM]
 ====
