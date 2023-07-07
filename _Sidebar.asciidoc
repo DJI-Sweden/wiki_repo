@@ -39,4 +39,5 @@
 . link:Var-hittar-jag-enklast-information-om-de-nya-drönarreglerna[Var hittar jag enklast information om de nya drönarreglerna?]
 . link:Finns-det-någon-annan-FAQ-på-nätet-än-den-här.md[Finns det någon annan FAQ på nätet än den här?]
 . link:Måste-jag-registrera-min-drönare.[Måste jag registrera min drönare?]
+. link:Varför-måste-jag-ta-drönarkort[Varför måste jag ta drönarkort?]
 ====
