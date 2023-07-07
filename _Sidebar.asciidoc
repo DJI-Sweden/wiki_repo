@@ -29,7 +29,7 @@
 . link:./26-Var-kan-jag-övningsflyga-min-drönare-ifred[Var kan jag övningsflyga i fred?]
 ====
 
-.20 - Nya drönarreglerna from. 2024-01-01
+.20 - Nya drönarreglerna (2024-01-01)
 [%collapsible]
 ====
 . link:Varför-är-OperatörsIDt-så-långt[Varför är Operatörs-ID:t så långt?]
@@ -49,4 +49,10 @@
 . link:Vilken-klass-tillhör-min-drönare-(inköpt-efter-2024---01---01)[Vilken klass tillhör min drönare (inköpt efter 2024-01-01)]
 . link:Kan-en-drönare-C---klassas-i-efterhand[Kan en drönare C-klassas i efterhand?]
 . link:Vilket-drönarkort-ska-jag-ta-(A1A3-eller-A2)[Vilket drönarkort ska jag ta (A1/A3 eller A2)?]
+====
+
+.30 - Spridningstillstånd LM/SFV
+[%collapsible]
+====
+. link:Varför-får-jag-foto-från-ett-högt-hus-men-inte-med-en-drönare-där[Varför får jag foto från ett högt hus men inte med en drönare där?]
 ====
