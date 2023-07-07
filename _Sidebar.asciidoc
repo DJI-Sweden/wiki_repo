@@ -60,4 +60,5 @@
 . link:LM---Undantag-från-Spridningstillstånd[LM - Undantag från Spridningstillstånd]
 . link:LM---Ansök-om-Spridningstillstånd.md[LM - Ansök om Spridningstillstånd]
 . link:SFS---Skydd-av-geografisk-information[SFS - Skydd av geografisk information]
+. link:LM---Intervju-med-LM-om-Spridningstillstånd[LM - Intervju med LM om Spridningstillstånd]
 ====
