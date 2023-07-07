@@ -62,4 +62,5 @@
 . link:SFS---Skydd-av-geografisk-information[SFS - Skydd av geografisk information]
 . link:LM---Intervju-med-LM-om-Spridningstillstånd[LM - Intervju med LM om Spridningstillstånd]
 . link:SFV---Spridningstillstånd[SFV - Spridningstillstånd]
+. link:SFV---Ansökan-om-Spridningstillstånd[SFV - Ansökan om SPridningstillstånd]
 ====
