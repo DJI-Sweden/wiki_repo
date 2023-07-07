@@ -2,4 +2,4 @@ Efter förtydligande från EU Kommissionen verkar detta vara möjligt under för
 
 Detta görs t.ex. när drönaren skickas tillbaka till tillverkaren för uppgradering eller med direkt mjukvara uppdatering (se bilden). Mer information finns på transportstyrelsens webb om vad tillverkaren/ägare behöver göra för att använda den möjlighet.
 
-![](./images/conversion.jpg)
+[[/images/conversion.jpg|Conversion to C-category]]
