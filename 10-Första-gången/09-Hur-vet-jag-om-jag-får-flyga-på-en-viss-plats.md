@@ -2,10 +2,10 @@
 
 Du hitta mest aktuell och riktih information på 
 
-* [LFV's drönarkarta] https://daim.lfv.se/echarts/dronechart/
+* [LFV's drönarkarta](https://daim.lfv.se/echarts/dronechart/)
 
 Bland de bästa apparna hör
-* AirMap
+* AirMap (utgått)
 * Drönarguiden
 
 LFV har även en lista över vilka R-områden som är aktiva för tillfället.
