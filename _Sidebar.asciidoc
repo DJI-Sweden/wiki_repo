@@ -79,6 +79,8 @@
 .50 - Naturvårdsverket & Länsstyrelsen
 [%collapsible]
 ====
-[decimal,start=0]
+[decimal,start=1]
 . link:10-Drönare-och-skyddad-natur[Drönare och skyddad natur]
+. link:20-Typer-av-skyddad-natur[Typer av skyddad natur]
+. link:30-Kartverktyget[Kartverktyget]
 ====
