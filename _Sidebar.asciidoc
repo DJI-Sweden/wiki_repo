@@ -111,4 +111,5 @@
 . link:100-Hur-sköter-jag-mina-batterier[Hur sköter jag mina batterier på bästa sätt?]
 . link:110-Bästa-strobe[vilket strobe är bäst om man vill öka VLOS maximalt dagtid?]
 . link:120-Sälja-drönare[Hur mycket kan jag ta för min begagnade drönare?]
+. link:130-Hårdvara-för-redigering[Vilken hårdvara krävs för att redigera filmer?]
 ====
