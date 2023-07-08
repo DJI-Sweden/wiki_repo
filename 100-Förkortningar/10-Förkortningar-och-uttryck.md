@@ -1,5 +1,3 @@
-[[TOC]]
-
 ## Naturvårdsverket
 
 Utövar kontroll över nationalparker och vilken typ av fordon som får framföras där.
