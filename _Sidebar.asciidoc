@@ -121,11 +121,13 @@
 . link:200-ATTI-mode[Vad är ATTI-mode?]
 ====
 
-.80 - Svenska DJI handledningar
+.80 - DJI Instruktioner
 [%collapsible]
 ====
 [decimal,start=1]
-. link:99-Handledningar[Handledningar]
+. link:10-Handledningar[Svenska Handledningar]
+. link:20-DJI-Fly[DJI Fly - Beginners tutorial]
+. link:30-Wifi-Lightbride-och-OcuSync[Wifi, LightBridge och OcuSync]
 ====
 
 .90 - Foto- och filmtips
