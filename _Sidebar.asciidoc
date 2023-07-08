@@ -111,14 +111,14 @@
 . link:100-Hur-sköter-jag-mina-batterier[Hur sköter jag mina batterier på bästa sätt?]
 . link:110-Bästa-strobe[vilket strobe är bäst om man vill öka VLOS maximalt dagtid?]
 . link:120-Sälja-drönare[Hur mycket kan jag ta för min begagnade drönare?]
-. link:140-Titta-i-logfilen[Hur kan jag se vad som finns i flygningens logfil?]
-. link:150-CE-Märkning[Vad skiljer CE-märkning från C-märkning?]
-. link:160-Flyga-gamla-drönare[Flyga gamla drönare]
-. link:170-Ansvarsförsäkring[Behövs en ansvarsförsäkring?]
-. link:180-Litchi[Vad är Litchi?]
-. link:190-Litchi-Vue[Vad är Litchi Vue?]
-. link:200-Blow-away[Vad är en Blow away?]
-. link:210-ATTI-mode[Vad är ATTI-mode?]
+. link:130-Titta-i-logfilen[Hur kan jag se vad som finns i flygningens logfil?]
+. link:140-CE-Märkning[Vad skiljer CE-märkning från C-märkning?]
+. link:150-Flyga-gamla-drönare[Flyga gamla drönare]
+. link:160-Ansvarsförsäkring[Behövs en ansvarsförsäkring?]
+. link:170-Litchi[Vad är Litchi?]
+. link:180-Litchi-Vue[Vad är Litchi Vue?]
+. link:190-Blow-away[Vad är en Blow away?]
+. link:200-ATTI-mode[Vad är ATTI-mode?]
 ====
 
 .80 - Svenska DJI handledningar
@@ -136,7 +136,7 @@
 . link:20-Fri-musik[Var hittar jag fri musik till mina filmer?]
 . link:30-Hårdvara-för-redigering[Vilken hårdvara krävs för att redigera filmer?]
 . link:40-Filma-i-mörker[Filma i mörker]
-. link:50-Tripod-mode[Fila i Tripod-läge]
+. link:50-Tripod-mode[Filma i Tripod-läge]
 . link:60-Gör-tråkig-film-bra[Hur gör jag mina filmer episka?]
 ====
 
