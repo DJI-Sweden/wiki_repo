@@ -116,6 +116,7 @@
 . link:150-CE-Märkning[Vad skiljer CE-märkning från C-märkning?]
 . link:160-Filma-i-mörker[Filma i mörker]
 . link:150-Tripod-mode[Fila i Tripod-läge]
+. link:160-Flyga-gamla-drönare[Flyga gamla drönare]
 ====
 
 .80 - Svenska DJI handledningar
