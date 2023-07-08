@@ -1,0 +1,1 @@
+Den speciella kabeln brukar benämnas USB OTG, "On The Go". En anslutning vars syfte är att kopplas direkt mot annan enhet. Mavic kör med uttagstypen Micro-A (fyrkantig), d.v.s kompis med Micro-B (två avkapade kanter, den "normala"). Du ska kunna stoppa in en Micro-B i ett Micro-A uttag.
