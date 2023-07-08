@@ -115,4 +115,5 @@
 . link:140-Titta-i-logfilen[Hur kan jag se vad som finns i flygningens logfil?]
 . link:150-CE-Märkning[Vad skiljer CE-märkning från C-märkning?]
 . link:160-Filma-i-mörker[Filma i mörker]
+- link:150-Tripod-mode[Fila i Tripod-läge]
 ====
