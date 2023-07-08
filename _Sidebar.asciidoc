@@ -121,6 +121,7 @@
 . link:180-Litchi[Vad är Litchi?]
 . link:190-Litchi-Vue[Vad är Litchi Vue?]
 . link:200-Blow-away[Vad är en Blow away?]
+. link:210-ATTI-mode[Vad är ATTI-mode?]
 ====
 
 .80 - Svenska DJI handledningar
