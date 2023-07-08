@@ -130,3 +130,11 @@
 [decimal,start=1]
 . link:99-Handledningar[Handledningar]
 ====
+
+.90 - Foto- och filmtips
+[%collapsible]
+====
+[decimal,start=1]
+. link:10-Bäst-ljus[Hur får jag bästa ljus för foto och filmning?]
+. link:20-Fri-musik[]
+====
