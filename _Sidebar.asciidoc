@@ -102,5 +102,6 @@
 . link:10-Gå-med-i-SRD[Gå med i SRD]
 . link:20-Undvik-uralddning-av-kontrollern[Hur undviker jag att min telefon laddar ur min handkontroll?]
 . link:30-Vilken-USB-kabel-passar[Vilken typ av USB-kabel fungerar till min DJI-drönare?]
-. link:30-Flyga-i-kontrollerat-område[Hur får jag tillstånd att flyga i kontrollerat område?]
+. link:40-Flyga-i-kontrollerat-område[Hur får jag tillstånd att flyga i kontrollerat område?]
+. link:50-NOTAM-för-Sverige[Var hittar jag aktuell NOTAM för hela Sverige?]
 ====
