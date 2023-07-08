@@ -1,0 +1,3 @@
+Lite mer tips om drönafilmning...
+
+* [YouTube - How to make boring drone shots look epic!](https://www.youtube.com/watch?v=iiT1AS8XXn8)

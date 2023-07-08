@@ -1,0 +1,3 @@
+Transportstyrelsen har årligen återkommande semenarium kring drönare som är öppna för allmänheten att deltaga på...
+
+* [Transportstyrelsen - Seminarium för verksamhetsområde drönare](https://www.transportstyrelsen.se/sv/luftfart/Seminarier-och-information/seminarier-inom-luftfarten/genomforda-seminarier/seminarium-for-verksamhetsomrade-dronare/)
