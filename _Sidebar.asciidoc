@@ -86,11 +86,18 @@
 . link:40-Reservarkartan[Reservarkartan]
 ====
 
-.60 - Radiosinaler
+.60 - Radiosignaler
 [%collapsible]
 ====
 [decimal,start=1]
 . link:10-ETSI-Maximum-Transmission-Power[ETSI - Maximum Transmission Power]
-. link:20-Radiolära.md[Radiolära]
+. link:20-Radiolära[Radiolära]
 . link:30-FCC-Wireless-Communication[FCC - Wireless Communication]
+====
+
+.70 - När du flugit ett tag
+[%collapsible]
+====
+[decimal,start=1]
+. link:
 ====
