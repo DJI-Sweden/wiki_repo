@@ -112,4 +112,5 @@
 . link:110-Bästa-strobe[vilket strobe är bäst om man vill öka VLOS maximalt dagtid?]
 . link:120-Sälja-drönare[Hur mycket kan jag ta för min begagnade drönare?]
 . link:130-Hårdvara-för-redigering[Vilken hårdvara krävs för att redigera filmer?]
+. link:140-Titta-i-logfilen[Hur kan jag se vad som finns i flygningens logfil?]
 ====
