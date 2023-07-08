@@ -117,6 +117,7 @@
 . link:160-Filma-i-mörker[Filma i mörker]
 . link:150-Tripod-mode[Fila i Tripod-läge]
 . link:160-Flyga-gamla-drönare[Flyga gamla drönare]
+. link:170-Ansvarsförsäkring[Behövs en ansvarsförsäkring?]
 ====
 
 .80 - Svenska DJI handledningar
