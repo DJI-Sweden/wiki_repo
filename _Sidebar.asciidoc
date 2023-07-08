@@ -99,5 +99,6 @@
 [%collapsible]
 ====
 [decimal,start=1]
-. link:
+. link:10-Gå-med-i-SRD[Gå med i SRD]
+. link:20-Undvik-uralddning-av-kontrollern[Hur undviker jag att min telefon laddar ur min handkontroll?]
 ====
