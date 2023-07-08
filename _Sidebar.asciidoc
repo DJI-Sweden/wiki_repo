@@ -100,7 +100,7 @@
 ====
 [decimal,start=1]
 . link:010-Gå-med-i-SRD[Gå med i SRD]
-. link:020-Undvik-uralddning-av-kontrollern[Hur undviker jag att min telefon laddar ur min handkontroll?]
+. link:020-Undvik-urladdning-av-kontrollern[Hur undviker jag att min telefon laddar ur min handkontroll?]
 . link:030-Vilken-USB-kabel-passar[Vilken typ av USB-kabel fungerar till min DJI-drönare?]
 . link:040-Flyga-i-kontrollerat-område[Hur får jag tillstånd att flyga i kontrollerat område?]
 . link:050-NOTAM-för-Sverige[Var hittar jag aktuell NOTAM för hela Sverige?]
@@ -111,11 +111,8 @@
 . link:100-Hur-sköter-jag-mina-batterier[Hur sköter jag mina batterier på bästa sätt?]
 . link:110-Bästa-strobe[vilket strobe är bäst om man vill öka VLOS maximalt dagtid?]
 . link:120-Sälja-drönare[Hur mycket kan jag ta för min begagnade drönare?]
-. link:130-Hårdvara-för-redigering[Vilken hårdvara krävs för att redigera filmer?]
 . link:140-Titta-i-logfilen[Hur kan jag se vad som finns i flygningens logfil?]
 . link:150-CE-Märkning[Vad skiljer CE-märkning från C-märkning?]
-. link:160-Filma-i-mörker[Filma i mörker]
-. link:150-Tripod-mode[Fila i Tripod-läge]
 . link:160-Flyga-gamla-drönare[Flyga gamla drönare]
 . link:170-Ansvarsförsäkring[Behövs en ansvarsförsäkring?]
 . link:180-Litchi[Vad är Litchi?]
@@ -136,5 +133,9 @@
 ====
 [decimal,start=1]
 . link:10-Bäst-ljus[Hur får jag bästa ljus för foto och filmning?]
-. link:20-Fri-musik[]
+. link:20-Fri-musik[Var hittar jag fri musik till mina filmer?]
+. link:30-Hårdvara-för-redigering[Vilken hårdvara krävs för att redigera filmer?]
+. link:40-Filma-i-mörker[Filma i mörker]
+. link:50-Tripod-mode[Fila i Tripod-läge]
+. link:60-Gör-tråkig-film-bra[Hur gör jag mina filmer episka?]
 ====
