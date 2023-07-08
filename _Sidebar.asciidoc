@@ -104,4 +104,5 @@
 . link:30-Vilken-USB-kabel-passar[Vilken typ av USB-kabel fungerar till min DJI-drönare?]
 . link:40-Flyga-i-kontrollerat-område[Hur får jag tillstånd att flyga i kontrollerat område?]
 . link:50-NOTAM-för-Sverige[Var hittar jag aktuell NOTAM för hela Sverige?]
+. link:60-AIP-SUP[Var hittar jag AIP SUP?]
 ====
