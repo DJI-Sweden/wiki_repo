@@ -1,4 +1,4 @@
-[2020-07-02 Publicerad på Fotosidan - Kinesisk medborgare gripen – flög drönare över skyddsobjekt](https://www.fotosidan.se/cldoc/lagochratt/kinesisk-medborgare-gripen-flog-dronare-over.htm?fbclid=IwAR3DALoSxUSjR-dE_ABz3m9GPgpnvgzdvIRTeUxSLf-iKpYu1H1kCMTi4Zs)
+[2020-07-02 Publicerad på Fotosidan - Kinesisk medborgare gripen – flög drönare över skyddsobjekt](https://www.fotosidan.se/cldoc/lagochratt/kinesisk-medborgare-gripen-flog-dronare-over.htm)
 
 ### En kinesisk medborgare har frihetsberövats misstänkt för brott mot skyddslagen efter att ha flugit drönare över ett skyddsobjekt.
 

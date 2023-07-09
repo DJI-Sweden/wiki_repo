@@ -158,4 +158,5 @@
 . link:003-Filmade-i-Slottsbacken[2021-01-19 Filmade i Slottsbacken - drönare beslagtagen]
 . link:004-Kinesisk-medborgare-över-skyddsobjekt[2020-07-02 En kinesisk medborgaremisstänkt för brott mot skyddslagen]
 . link:005-Man-slog-till-mäklare[2021-01-02 Man slog till drönarflygande mäklare]
+. link:006-Flygtrafik-stoppad-igen[2018-08-20 Flygtrafiken på Arlanda stoppad - igen]
 ====
