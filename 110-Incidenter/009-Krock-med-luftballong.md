@@ -1,4 +1,4 @@
-[2020-09-30 Publicerad på YouTube: What You Haven't Seen - Drone Crash Due To GPS Interference In U.K. Raises Safety Questions](https://www.youtube.com/watch?v=0O0qAefh9UM)
+[2020-09-30 Publicerad på YouTube: What You Haven't Seen - DJI Drone Collides With Hot Air Balloon](https://www.youtube.com/watch?v=0O0qAefh9UM)
 
 An unfortunate and unnecessarily epic encounter between a DJI Mavic Pro (piloted by someone who was unaware that he was "piloting" anything more than a toy), and an enormous bag of hot air.
 
