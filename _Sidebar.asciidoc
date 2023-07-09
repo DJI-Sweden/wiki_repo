@@ -153,6 +153,7 @@
 [%collapsible]
 ====
 [decimal,start=1]
-. link:010-Böter-för-drönarflygninig-i-Skäralids-Nationalpark[2020-10-23 Böter i Skäralid]
-. link:020-020-Häckningsplats-störd[2021-06-04 Häckningsplats störd efter drönarkrash]
+. link:001-Böter-för-drönarflygninig-i-Skäralids-Nationalpark[2020-10-23 Böter i Skäralid]
+. link:002-Häckningsplats-störd[2021-06-04 Häckningsplats störd efter drönarkrash]
+. link:003-Filmade-i-Slottsbacken[2021-01-19 Filmade i Slottsbacken - drönare beslagtagen]
 ====
