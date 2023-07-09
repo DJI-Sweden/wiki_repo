@@ -163,3 +163,10 @@
 . link:008-Krash-pga-fel-med-GPS[2020-08-10 Drone Crash Due To GPS Interference]
 . link:009-Krock-med-luftballong[2020-09-30 DJI Drone Collides With Hot Air Balloon]
 ====
+
+.120 - Egna erfarenheter
+[%collapsible]
+====
+[decimal,start=1]
+. link:001-Rapportera-till-Transportstyrelsen[Rapportera luftfartshändelse till Transportstyrelsen]
+====
