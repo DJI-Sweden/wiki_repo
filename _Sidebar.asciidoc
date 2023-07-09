@@ -162,6 +162,7 @@
 . link:007-Flög-över-Arlanda-och-greps[2019-08-26 Man flög drönare vid Arlanda – greps]
 . link:008-Krash-pga-fel-med-GPS[2020-08-10 Drone Crash Due To GPS Interference]
 . link:009-Krock-med-luftballong[2020-09-30 DJI Drone Collides With Hot Air Balloon]
+. link:010-Aircraft-drone-strike[2018-10-03 What Happens When a Drone Hits an Airplane Wing?]
 ====
 
 .120 - Egna erfarenheter
