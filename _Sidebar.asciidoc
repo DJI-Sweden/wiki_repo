@@ -83,7 +83,7 @@
 . link:10-Drönare-och-skyddad-natur[Drönare och skyddad natur]
 . link:20-Typer-av-skyddad-natur[Typer av skyddad natur]
 . link:30-Kartverktyget[Kartverktyget]
-. link:40-Reservarkartan[Reservarkartan]
+. link:40-Reservatkartan[Reservatkartan]
 ====
 
 .060 - Radiosignaler
@@ -109,7 +109,7 @@
 . link:080-Yrkesutbildning[Finns det yrkesutbildningar för drönarpiloter?]
 . link:090-På-gång-på-Transportstyrelsen[Vad händer på Tranpsortstyrelsen med drönare?]
 . link:100-Hur-sköter-jag-mina-batterier[Hur sköter jag mina batterier på bästa sätt?]
-. link:110-Bästa-strobe[vilket strobe är bäst om man vill öka VLOS maximalt dagtid?]
+. link:110-Bästa-strobe[Vilken strobe är bäst om man vill öka VLOS dagtid?]
 . link:120-Sälja-drönare[Hur mycket kan jag ta för min begagnade drönare?]
 . link:130-Titta-i-logfilen[Hur kan jag se vad som finns i flygningens logfil?]
 . link:140-CE-Märkning[Vad skiljer CE-märkning från C-märkning?]
@@ -156,10 +156,18 @@
 . link:001-Böter-för-drönarflygninig-i-Skäralids-Nationalpark[2020-10-23 Böter i Skäralid]
 . link:002-Häckningsplats-störd[2021-06-04 Häckningsplats störd efter drönarkrash]
 . link:003-Filmade-i-Slottsbacken[2021-01-19 Filmade i Slottsbacken - drönare beslagtagen]
-. link:004-Kinesisk-medborgare-över-skyddsobjekt[2020-07-02 En kinesisk medborgaremisstänkt för brott mot skyddslagen]
+. link:004-Kinesisk-medborgare-över-skyddsobjekt[2020-07-02 En kinesisk medborgare misstänkt för brott mot skyddslagen]
 . link:005-Man-slog-till-mäklare[2021-01-02 Man slog till drönarflygande mäklare]
 . link:006-Flygtrafik-stoppad-igen[2018-08-20 Flygtrafiken på Arlanda stoppad - igen]
 . link:007-Flög-över-Arlanda-och-greps[2019-08-26 Man flög drönare vid Arlanda – greps]
 . link:008-Krash-pga-fel-med-GPS[2020-08-10 Drone Crash Due To GPS Interference]
 . link:009-Krock-med-luftballong[2020-09-30 DJI Drone Collides With Hot Air Balloon]
+====
+
+.120 - Egna erfarenheter
+[%collapsible]
+====
+[decimal,start=1]
+. link:001-Rapportera-till-Transportstyrelsen[Rapportera luftfartshändelse till Transportstyrelsen]
+. link:002-Batteriskada[2021-05-11 Kolla batterikontakterna på Phantom 4]
 ====
