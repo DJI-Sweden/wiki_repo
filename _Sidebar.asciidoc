@@ -156,4 +156,5 @@
 . link:001-Böter-för-drönarflygninig-i-Skäralids-Nationalpark[2020-10-23 Böter i Skäralid]
 . link:002-Häckningsplats-störd[2021-06-04 Häckningsplats störd efter drönarkrash]
 . link:003-Filmade-i-Slottsbacken[2021-01-19 Filmade i Slottsbacken - drönare beslagtagen]
+. link:004-Kinesisk-medborgare-över-skyddsobjekt[2020-07-02 En kinesisk medborgaremisstänkt för brott mot skyddslagen]
 ====
