@@ -1,4 +1,4 @@
-.10 - Flyga drönare första gången
+.010 - Flyga drönare första gången
 [%collapsible]
 ====
 [decimal,start=1]
@@ -30,7 +30,7 @@
 . link:./26-Var-kan-jag-övningsflyga-min-drönare-ifred[Var kan jag övningsflyga i fred?]
 ====
 
-.20 - Nya drönarreglerna (2024-01-01)
+.020 - Nya drönarreglerna (2024-01-01)
 [%collapsible]
 ====
 [decimal,start=1]
@@ -53,7 +53,7 @@
 . link:Vilket-drönarkort-ska-jag-ta-(A1A3-eller-A2)[Vilket drönarkort ska jag ta (A1/A3 eller A2)?]
 ====
 
-.30 - Spridningstillstånd LM/SFV
+.030 - Spridningstillstånd LM/SFV
 [%collapsible]
 ====
 [decimal,start=1]
@@ -69,14 +69,14 @@
 . link:Skyddslagen[Skyddslagen]
 ====
 
-.40 - EU-direktiv och föreskrifter
+.040 - EU-direktiv och föreskrifter
 [%collapsible]
 ====
 [decimal,start=0]
 . link:99-Övergångsregler[Övergångsregler]
 ====
 
-.50 - Naturvårdsverket & Länsstyrelsen
+.050 - Naturvårdsverket & Länsstyrelsen
 [%collapsible]
 ====
 [decimal,start=1]
@@ -86,7 +86,7 @@
 . link:40-Reservarkartan[Reservarkartan]
 ====
 
-.60 - Radiosignaler
+.060 - Radiosignaler
 [%collapsible]
 ====
 [decimal,start=1]
@@ -95,7 +95,7 @@
 . link:30-FCC-Wireless-Communication[FCC - Wireless Communication]
 ====
 
-.70 - När du flugit ett tag
+.070 - När du flugit ett tag
 [%collapsible]
 ====
 [decimal,start=1]
@@ -121,7 +121,7 @@
 . link:200-ATTI-mode[Vad är ATTI-mode?]
 ====
 
-.80 - DJI Instruktioner
+.080 - DJI Instruktioner
 [%collapsible]
 ====
 [decimal,start=1]
@@ -130,7 +130,7 @@
 . link:30-Wifi-Lightbride-och-OcuSync[Wifi, LightBridge och OcuSync]
 ====
 
-.90 - Foto- och filmtips
+.090 - Foto- och filmtips
 [%collapsible]
 ====
 [decimal,start=1]
@@ -147,4 +147,11 @@
 ====
 [decimal,start=1]
 . link:10-Förkortningar-och-uttryck[Förkortningar och uttryck]
+====
+
+.110 - Publicerade Incidenter
+[%collapsible]
+====
+[decimal,start=1]
+. link:010-Böter-för-drönarflygninig-i-Skäralids-Nationalpark[2020-10-23 Böter i Skäralid]
 ====
