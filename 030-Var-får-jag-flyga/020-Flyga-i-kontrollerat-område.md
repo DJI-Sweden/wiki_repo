@@ -8,4 +8,4 @@ I informationen för zonen i tex. LFV:s Drönakarta kan de se vem som har ansvar
 
 Det går ofta bra att maila in i förväg, men kom ihåg att ringa in när du påbörjar och avslutar din flygning.
 
-![]./images/(2023-07-08-12-06-51.png)
+![](./images/2023-07-08-12-06-51.png)
