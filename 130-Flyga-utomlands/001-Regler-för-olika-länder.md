@@ -1,5 +1,8 @@
-Denna sajt har en översikt på vilka regler som gäller i olika länder. 
+EASA har en bra lista med likar direkt till olika länders myndigheter...
 
-Sajten länkar tyvärr inte direkt till respektiva lands mymdigheter, så dubbelkolla att informationen är korrekt.
+* [EASA Drones - National Aviation Authorities](https://www.easa.europa.eu/en/domains/civil-drones/naa)
+
+Denna sajt har en mer ingående översikt direkt i sajten på vilka regler som gäller i olika länder.  
+Men sajten länkar tyvärr inte direkt till respektiva lands mymdigheter som EASA ovan, så dubbelkolla att informationen är korrekt.
 
 * [UAV Coach - Master List of Drone Laws](https://uavcoach.com/drone-laws/)
