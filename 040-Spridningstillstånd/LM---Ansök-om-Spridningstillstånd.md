@@ -1,4 +1,4 @@
-När du ansöker om pPridningstillstånd behöver du ange
+När du ansöker om Spridningstillstånd behöver du ange
 
 * Om du söker privat eller för ett företag
 * Dina kontaktuppgfter
@@ -18,3 +18,5 @@ Om de enskilda filerna inte är för stora (oftast under 1 GB) kan du skicka dem
 [LM - Ansökan om Spridningstillstånd](https://www.lantmateriet.se/sv/spridningstillstand/ansokan/)
 
 Målet är att svaret ska komma inom 3 - 5 arbetsdagar, men under högsäsong handlar det om flera veckor.
+
+Även om du sökt tillstånd för exakt samma plats förut måste du göra det igen för varje gång och varje gång du skapar nytt material på den platsen. Det finns ingen självgranskningsrätt.
