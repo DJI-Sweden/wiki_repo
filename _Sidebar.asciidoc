@@ -53,7 +53,23 @@
 . link:Vilket-drönarkort-ska-jag-ta-(A1A3-eller-A2)[Vilket drönarkort ska jag ta (A1/A3 eller A2)?]
 ====
 
-.030 - Spridningstillstånd LM/SFV
+.030 - Var får jag flyga?
+[%collapsible]
+====
+[decimal,start=1]
+. link:09-Hur-vet-jag-om-jag-får-flyga-på-en-viss-plats[Var får jag flyga?]
+. link:010-Flyga-i-kontrollerat-område[Hur får jag tillstånd att flyga i kontrollerat område?]
+- link:020-Kontaktlista-Flygledningar[Kontaktlista till Flygledningar]
+. link:050-NOTAM-för-Sverige[Var hittar jag aktuell NOTAM för hela Sverige?]
+. link:060-AIP-SUP[Var hittar jag AIP SUP?]
+. link:070-NOTAM-Appar[Hur fungerar NOTAM Appar?]
+. link:110-Drönare-och-skyddad-natur[Drönare och skyddad natur]
+. link:120-Typer-av-skyddad-natur[Typer av skyddad natur]
+. link:130-Kartverktyget[Kartverktyget]
+. link:140-Reservatkartan[Reservatkartan]
+====
+
+.040 - Spridningstillstånd LM/SFV
 [%collapsible]
 ====
 [decimal,start=1]
@@ -69,21 +85,11 @@
 . link:Skyddslagen[Skyddslagen]
 ====
 
-.040 - EU-direktiv och föreskrifter
+.050 - EU-direktiv och föreskrifter
 [%collapsible]
 ====
 [decimal,start=0]
 . link:99-Övergångsregler[Övergångsregler]
-====
-
-.050 - Naturvårdsverket & Länsstyrelsen
-[%collapsible]
-====
-[decimal,start=1]
-. link:10-Drönare-och-skyddad-natur[Drönare och skyddad natur]
-. link:20-Typer-av-skyddad-natur[Typer av skyddad natur]
-. link:30-Kartverktyget[Kartverktyget]
-. link:40-Reservatkartan[Reservatkartan]
 ====
 
 .060 - Radiosignaler
@@ -102,10 +108,6 @@
 . link:010-Gå-med-i-SRD[Gå med i SRD]
 . link:020-Undvik-urladdning-av-kontrollern[Hur undviker jag att min telefon laddar ur min handkontroll?]
 . link:030-Vilken-USB-kabel-passar[Vilken typ av USB-kabel fungerar till min DJI-drönare?]
-. link:040-Flyga-i-kontrollerat-område[Hur får jag tillstånd att flyga i kontrollerat område?]
-. link:050-NOTAM-för-Sverige[Var hittar jag aktuell NOTAM för hela Sverige?]
-. link:060-AIP-SUP[Var hittar jag AIP SUP?]
-. link:070-NOTAM-Appar[Hur fungerar NOTAM Appar?]
 . link:080-Yrkesutbildning[Finns det yrkesutbildningar för drönarpiloter?]
 . link:090-På-gång-på-Transportstyrelsen[Vad händer på Tranpsortstyrelsen med drönare?]
 . link:100-Hur-sköter-jag-mina-batterier[Hur sköter jag mina batterier på bästa sätt?]
