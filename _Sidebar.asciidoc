@@ -51,6 +51,7 @@
 . link:Vilken-klass-tillhör-min-drönare-(inköpt-efter-2024---01---01)[Vilken klass tillhör min drönare (inköpt efter 2024-01-01)]
 . link:Kan-en-drönare-C---klassas-i-efterhand[Kan en drönare C-klassas i efterhand?]
 . link:Vilket-drönarkort-ska-jag-ta-(A1A3-eller-A2)[Vilket drönarkort ska jag ta (A1/A3 eller A2)?]
+. link:Vad-är-Remote-ID[Vad är Remote-ID?]
 ====
 
 .030 - Var får jag flyga?
