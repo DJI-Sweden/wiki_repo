@@ -73,7 +73,7 @@
 [%collapsible]
 ====
 [decimal,start=1]
-. link:Varför-får-jag-foto-från-ett-högt-hus-men-inte-med-en-drönare-där[Varför får jag foto från ett högt hus men inte med en drönare där?]
+. link:Varför-får-jag-fota-från-ett-högt-hus-men-inte-med-en-drönare-där[Varför får jag foto från ett högt hus men inte med en drönare där?]
 . link:Vad-är-ett-skyddsobjekt[Vad är ett skyddsobjekt]
 . link:LM---Spridningstillstånd[LM - Spridningstillstånd]
 . link:LM---Undantag-från-Spridningstillstånd[LM - Undantag från Spridningstillstånd]
@@ -83,6 +83,7 @@
 . link:SFV---Spridningstillstånd[SFV - Spridningstillstånd]
 . link:SFV---Ansökan-om-Spridningstillstånd[SFV - Ansökan om Spridningstillstånd]
 . link:Skyddslagen[Skyddslagen]
+. link:Spridningstillstånd-utomlands[Hur söker jag spridningstillstånd utomlands?]
 ====
 
 .050 - EU-direktiv och föreskrifter
@@ -165,6 +166,7 @@
 . link:008-Krash-pga-fel-med-GPS[2020-08-10 Drone Crash Due To GPS Interference]
 . link:009-Krock-med-luftballong[2020-09-30 DJI Drone Collides With Hot Air Balloon]
 . link:010-Aircraft-drone-strike[2018-10-03 What Happens When a Drone Hits an Airplane Wing?]
+. link:011-Döms-betala-64000-i-dagsböter[Döms att betala 64 000 kr i böter för drönarfilmer utlagda på Youtube]
 ====
 
 .120 - Egna erfarenheter
