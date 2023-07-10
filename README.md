@@ -21,7 +21,18 @@ Du behöver:
 ## 3. Användning/Hur gör jag
 
 Till att börja med kan använda GitHubs webgui eller använda `GitHub Desktop` för att gära ändringar.  
-Men för mer omfattande ändringar med full kontroll är det bäst att arbeta med en lokal klon och ett rent Git-verktyg.  
+
+WebGUI:t finns i två varianter:
+
+* Edit in Place
+* github.dev
+
+![](./images/2023-07-10-11-25-00.png)
+
+`github.dev` är en komplett webversion av `VS Code`, men den saknar stöd för många Extensions.
+
+För mer omfattande ändringar med full kontroll är det bäst att arbeta med en lokal klon och ett rent Git-verktyg.  
+
 Men `GitHub Desktop` bör fungera bra för ditt behov.
 
 #### 3.1 Ladda ner repot
