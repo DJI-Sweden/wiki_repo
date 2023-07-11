@@ -1,4 +1,4 @@
-C-kategorier gäller klassniing för dröanaren.
+C-kategorier gäller klassning för drönaren.
 A-underkategorier gäller kompetensbevis för dig som drönarpilot.
 
 Översikten nedan är den bästa jag sett hitintills.

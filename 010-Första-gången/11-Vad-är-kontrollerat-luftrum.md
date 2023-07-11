@@ -2,4 +2,4 @@
 
 Se mer vad som gäller på Luftfartsverkets sida.
 
-[LFV - Flyg drönare med hjälp av LFVs drönarkarta](https://lfv.se/tjanster/informationstjanster/lfvs-dronarkarta)
+* [LFV - Flyg drönare med hjälp av LFVs drönarkarta](https://lfv.se/tjanster/informationstjanster/lfvs-dronarkarta)

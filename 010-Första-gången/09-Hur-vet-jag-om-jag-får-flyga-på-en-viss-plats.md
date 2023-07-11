@@ -1,4 +1,4 @@
-﻿Det finns olika appar och sajter som visar vad som är kontrollerat luftrum. Din drönare har också en No Fly Zone (NFZ)-funktion inbyggd som ibland inte stämmer överens med avlysningar utfördade av LFV.
+﻿Det finns olika appar och sajter som visar vad som är kontrollerat luftrum. Din drönare har också en No Fly Zone (NFZ)-funktion inbyggd som ibland inte stämmer överens med avlysningar utfärdade av LFV.
 
 Du hittar mest aktuell och riktig information på 
 

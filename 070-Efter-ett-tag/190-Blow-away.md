@@ -1,4 +1,4 @@
-Om du inte tänker på vilket håll vinden blåser på kan du få så mycket motvind på vägen tillbaka att drönaren inte orkar tillbaka.
+Om du inte tänker på vilket håll vinden blåser på när du startar kan du få så mycket motvind på vägen tillbaka att drönaren inte orkar tillbaka.
 
 Oftast blåser det mycket mindre på lägre höjd, så börja med att gå ner i höjd så mycket du vågar.
 

@@ -1,4 +1,4 @@
-Om du vill använda musik till till drönavideo är det vikigt att se tiil att du har rätt at använda musiken till det.
+Om du vill använda musik till drönavideo är det vikigt att se till att du har rätt att använda den musiken.
 
 Det finns lite olika sajter som erbjuder fri musik (fast en del måste man läsa avtalen på ordenltigt).
 

@@ -2,5 +2,4 @@ Om du (som de flesta) är kritisk och frågande ang. de lagar och regler som gä
 
 Kanske besvarar detta många frågor ang. horisont, skog, väg, antenner etc. som du kan ha.
 
-[Toginta Prodcutionts, YouTube - Intervju med Lantmäteriet om spridningstillståndet
-](https://www.youtube.com/watch?v=4bwaJH-mcg0&t=1133s)
+* [Toginta Prodcutionts, YouTube - Intervju med Lantmäteriet om spridningstillståndet](https://www.youtube.com/watch?v=4bwaJH-mcg0&t=1133s)

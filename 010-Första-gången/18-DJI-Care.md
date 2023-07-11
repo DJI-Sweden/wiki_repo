@@ -2,4 +2,4 @@
 
 Det innefattar även Fly Away eller om du förlorar drönaren i vattnen och inte kan komma åt den.
 
-[DJI Care Service Plans](https://www.dji.com/se/support/service)
+* [DJI Care Service Plans](https://www.dji.com/se/support/service)

@@ -1,6 +1,6 @@
-En strobe är en väldigt starkt blinkande lampa som di kan sätta på din drönare för att öka synligheten och därmed hur långt bort du får flyga med den lagligt.
+En strobe är en väldigt starkt blinkande lampa som du kan sätta på din drönare för att öka synligheten och därmed hur långt bort du får flyga med den lagligt.
 
-Det finns olika produkter för detta men tänk på att om du sätter den på en Mini så överskrider den vikten för C0-kategorin...
+Det finns olika produkter för detta men tänk på att om du sätter den på en DJI Mini så överskrider den vikten för C0-kategorin...
 
 Nedan följer olika produkter och tester som omnämnts i Facebook-gruppen
 

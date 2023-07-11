@@ -1,10 +1,10 @@
-I och med de nya C-kategorierna införs fullt ut för drönare 2024-01-01 finns det även krav på att vissa kategorier (C1 och uppåt?) måste gå att identifiera när de flyger.
+I och med de nya C-kategorierna införs fullt ut för drönare 2024-01-01, finns det även krav på att vissa kategorier (C1 och uppåt?) måste gå att identifiera när de flyger.
 
-Amerikanska FAA och Europeiska EASA har därför arbetat på (var sin likartad) standard för fjärridentifieringen. Ungeför som registreringsskyltar fungerar med bilar.
+Amerikanska FAA och Europeiska EASA har därför arbetat på (var sin likartad) standard för fjärridentifiering. Ungefär som registreringsskyltar fungerar med motorforden.
 
-Så om en drönare i närheten gör något som verkar störande, kan vem som helst inom räckhåll från drönaren ta upp en app och se vilken drönaroperatör som är ansvarig för den, hur den flugit och var den startat samt RTH-punkten.
+Så om en drönare gör något som verkar störande eller farligt, kan vem som helst inom räckhåll från drönaren använda en app och se vilken drönaroperatör som är ansvarig för den, hur den flugit och var den startat samt RTH-punkten.
 
-En sådan App är
+En sådan App är t.ex.
 
 * [App Store - Drone Scanner](https://apps.apple.com/bo/app/drone-scanner/id1644548782)
 * [Google Play - Drone Scanner](https://play.google.com/store/apps/details?id=cz.dronetag.dronescanner&hl=es_419&gl=US)
@@ -27,7 +27,7 @@ I USA inträder krav på RID 2023-09-16. Gamla drönare går att utrusta med en 
 
 * [YouTube Drone Camps RC - FAA has BIG PROBLEMS with Remote ID Network! - Spoofing and NO RSA!](https://www.youtube.com/watch?v=wsTPQnD4O6M)
 
-DJI går tyvärr ett steg längre. Med de senare versioenerna av DJI Fly, är det krav på att din position också ska kunna skickas till DJI:s servrar (i Kina?). Detta måste godkännas vid start av Appen första gången.
+DJI går tyvärr ett steg längre. Med de senare versionerna av DJI Fly, är det krav på att din position också ska kunna skickas till DJI:s servrar (i Kina?). Detta måste godkännas vid start av Appen första gången.
 
 ![](./images/Access_to_info_00.jpg)
 
