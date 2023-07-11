@@ -24,6 +24,10 @@ Om personuppgifter (såsom bilder som lätt identifierar mäniskor) lagras på d
 
 Om personuppgifter (såsom bilder som lätt identifierar mäniskor) lagras på datamedia så vill Integritetsskyddsmyndigheten gärna ha något att säga om saken.
 
+## Drönare: ATTI-mode
+
+ATTItude mode som innebär att drönaren stänger av all automatik förutom höjdhållning (attitude). Detta finns normalt inte som en manuell inställning på nyare drönare.
+
 ## Filmning: Gimbal
 
 Upphängningsanordning som håller kameran i rätt vinkel med horisonten och eliminerar drönarens vibrationer.

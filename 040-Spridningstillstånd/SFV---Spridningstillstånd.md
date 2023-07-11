@@ -2,4 +2,4 @@ Lanmäteriet hanterar geografisk inforamtion för land och sjöar. När det gäl
 
 Undantagen gör dock att det är väldigt sällan en asnökan hos SFV behövs i praktiken.
 
-[SFV - Spridningstillstånd](https://www.sjofartsverket.se/sv/tjanster/sjokortsprodukter/digital-data/djupdata---detaljerad-information/spridningstillstand/)
+* [SFV - Spridningstillstånd](https://www.sjofartsverket.se/sv/tjanster/sjokortsprodukter/digital-data/djupdata---detaljerad-information/spridningstillstand/)

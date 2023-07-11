@@ -6,8 +6,8 @@ Det finns ingen organisation, företag eller förening bakom. Allt arbete utför
 
 Här hittar du mycket av det som vi i gruppen samlat på oss i erfarenhet och kunskap under de år som vi varit aktiva på Facebook.
 
-En annan väldigt bra källa till information finns på [EASA Light](https://www.easa.europa.eu/sv/light/topics/drones), samt givetis [Transportstyrelsen - Drönare](https://www.transportstyrelsen.se/dronare)
+En annan väldigt bra källa till information finns på [EASA Light](https://www.easa.europa.eu/sv/light/topics/drones), samt givetvis [Transportstyrelsen - Drönare](https://www.transportstyrelsen.se/dronare)
 
-Kontakta oss gärna på Facebook om du undrar över något. Det är även fritt att bidra med egna ändringar och förslag direkt här på GitHub-sajten [DJI Sweden - Wiki_Repo](https://github.com/DJI-Sweden/wiki_repo) som innehåller alla filer som denna Wiki är uppbyggd av.
+Kontakta oss gärna på Facebook om du undrar över något. Det är även fritt att bidra med egna ändringar och förslag direkt på GitHub-sajten [DJI Sweden - Wiki_Repo](https://github.com/DJI-Sweden/wiki_repo) som innehåller alla filer som denna Wiki är uppbyggd av.
 
 [[/images/DJI-Sweden.jpg]]

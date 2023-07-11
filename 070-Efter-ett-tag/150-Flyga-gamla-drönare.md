@@ -1,6 +1,6 @@
 Att få igång en riktigt gammal drönare som du köpt kan vara en utmaning.
 
-Batterier och reservdelar går inte att få tag på och du hittar ingen fungerande app i `Google Play` eller Apple `App Store`.
+Batterier och reservdelar går kanske inte att få tag på och du hittar ingen fungerande app i `Google Play` eller Apple `App Store`.
 
 Så förutsatt att allt fungerar med hårdvaran så gäller det att hitta en app som fungerar.
 

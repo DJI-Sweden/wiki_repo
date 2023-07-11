@@ -8,4 +8,4 @@ RCFF arbetar aktivt med att säkerställa goda villkor för modell- och drönarf
 Man kan bli medlem i RCFF även om man inte är medlem i en modellflygklubb. Alla är lika välkomna.
 
 Läs mer här:
-[RCFF - Försäkring](http://www.rcflyg.se/forum/cmps_index.php?pageid=Forsakring)
+* [RCFF - Försäkring](http://www.rcflyg.se/forum/cmps_index.php?pageid=Forsakring)

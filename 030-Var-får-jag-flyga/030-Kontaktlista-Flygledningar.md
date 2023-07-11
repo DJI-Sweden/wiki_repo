@@ -13,6 +13,8 @@ Uppge alltid:
 
 Kom ihåg att även kontakta flygledningen direkt innan start och när du landat så de alltid har aktuell status för sitt luftrum.
 
+Du kan alltid gå via LFV:s växel för att bli kopplad till vilken flygledning som helst, 011-19 20 00.
+
 ## Blekinge
 
 ### Ronneby - CTR
