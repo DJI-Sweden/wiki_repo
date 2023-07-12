@@ -32,9 +32,11 @@ Som med allt annat finns det flera sätt att få en sak att fungera. Nedan prese
 
 För små ändringar räcker oftast `GitHub WebEditor`. 
 
+Fast i många fall är det enklare att arbeta med Git lokalt.
+
 Hantera Wiki-filerna med:
-* [GitHub Webeditor]()
-* [GitWrap]() med [Zettlr](./000-Arbeta-med-GitHub/Zettlr.md)
+* [GitHub Webeditor](./000-Arbeta-med-GitHub/Arbeta-med-GitHub-Web-Editor.md)
+* [GitWrap]() med [Zettlr]()
 * [GitWrap]() med [Obsidian]()
 * [Git for Windows]() med [VS Code]()
 
