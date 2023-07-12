@@ -24,7 +24,7 @@ Tillval:
 
 Först måste du förstå konceptet med `Arbestytor` (Brancher) och `Sparad Status` (Commits) i Git.
 
-* [Kort intro till Git](Intro_till_git.md)
+* [Kort intro till Git](./000-Arbeta-med-GitHub/Kort_intro_till_git.md)
 
 ### 3.1 Gör din ändring
 
