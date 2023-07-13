@@ -151,7 +151,7 @@
 ====
 [decimal,start=1]
 . link:10-Förkortningar-och-uttryck[Förkortningar och uttryck]
-. link:20-Godkända-NOTAM-förkortningar[Fodkända NOTAM-förkortningar]
+. link:20-Godkända-NOTAM-förkortningar[Godkända NOTAM-förkortningar]
 ====
 
 .110 - Publicerade Incidenter
