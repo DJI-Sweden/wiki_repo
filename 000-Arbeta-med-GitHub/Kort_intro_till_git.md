@@ -31,7 +31,7 @@ Med ett repo kan du:
 
 När du arbetat ett tag med ditt repo kommer du till ett läge som du kan tänka dig att kunna återgå till.
 
-I Gti går det att göra en snapshot med `Commit` tillsammans med ett meddelande om vad man gjort.
+I Git gör man en snapshot med `Commit` tillsammans med ett meddelande om vad man gjort.
 
 I en snapshot tar man normalt med alla filer som ändrats, lagts till eller raderats sedan förra snapshoten.
 
