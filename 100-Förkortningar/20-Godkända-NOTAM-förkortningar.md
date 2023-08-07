@@ -215,25 +215,25 @@ Förkortningar som används i NOTAM
 |	NDB	|	Icke-riktad radiofyr	|	Nondirectional Radio Beacon	|
 |	NE	|	Nordost	|	Northeast	|
 |	NGT	|	Natt	|	Night	|
-|	NM	|	Sjömil)	|	Nautical Mile(s)	|
+|	NM	|	Sjömil	|	Nautical Mile(s)	|
 |	NMR	|	Nautical Mile Radie	|	Nautical Mile Radius	|
 |	NONSTD	|	Icke standard	|	Nonstandard	|
 |	NOPT	|	Ingen procedur Sväng krävs	|	No Procedure Turn Required	|
 |	NR	|	siffra	|	Number	|
 |	NTAP	|	Meddelande till Airmen Publication	|	Notice to Airmen Publication	|
 |	NW	|	Nordväst	|	Northwest	|
-|	OBSC	|	Obscured, Obscure eller Obscuring	|	Obscured, Obscure, or Obscuring	|
+|	OBSC	|	Skymd	|	Obscured, Obscure, or Obscuring	|
 |	OBST	|	Hinder, hinder	|	Obstruction, Obstacle	|
 |	OM	|	Yttre markör	|	Outer Marker	|
 |	OPR	|	Operatör, Operatör eller Operativ	|	Operate, Operator, or Operative	|
-|	OPS	|	Operationer)	|	Operation(s)	|
+|	OPS	|	Operationer	|	Operation(s)	|
 |	ORIG	|	Original	|	Original	|
 |	OTS	|	Ur funktion	|	Out of Service	|
 |	OVR	|	Över	|	Over	|
 |	PAEW	|	Personal och utrustning arbetar	|	Personnel and Equipment Working	|
 |	PAX	|	Passagerare	|	Passenger(s)	|
-|	PAPI	|	Precision Approach Path Indicator	|	Precision Approach Path Indicator	|
-|	PAR	|	Precision Approach Radar	|	Precision Approach Radar	|
+|	PAPI	|	?	|	Precision Approach Path Indicator	|
+|	PAR	|	?	|	Precision Approach Radar	|
 |	PARL	|	Parallell	|	Parallel	|
 |	PAT	|	Mönster	|	Pattern	|
 |	PCL	|	Pilotkontrollerad belysning	|	Pilot Controlled Lighting	|
@@ -243,7 +243,7 @@ Förkortningar som används i NOTAM
 |	PLW	|	Plog, plöjd	|	Plow, Plowed	|
 |	PN	|	Förhandsmeddelande krävs	|	Prior Notice Required	|
 |	PPR	|	Förhandstillstånd krävs	|	Prior Permission Required	|
-|	PRN	|	Psuedo Random Noise	|	Psuedo Random Noise	|
+|	PRN	|	?	|	Psuedo Random Noise	|
 |	PROC	|	Procedur	|	Procedure	|
 |	PROP	|	Propeller	|	Propeller	|
 |	PSR	|	Packad snö på banan(ar)	|	Packed Snow on Runway(s)	|
@@ -253,15 +253,15 @@ Förkortningar som används i NOTAM
 |	RAIL	|	Indikatorlampor för startbanan	|	Runway Alignment Indicator Lights	|
 |	RAMOS	|	Fjärrstyrt automatiskt meteorologiskt observationssystem	|	Remote Automatic Meteorological Observing System	|
 |	RCAG	|	Fjärrkommunikation luft/markanläggning	|	Remote Communication Air/Ground Facility	|
-|	RCL	|	Runway Center Line	|	Runway Center Line	|
-|	RCLL	|	Runway Center Line Lights	|	Runway Center Line Lights	|
+|	RCL	|	Centrumlinje landningsbana	|	Runway Center Line	|
+|	RCLL	|	Centrumljus på landningsbanan	|	Runway Center Line Lights	|
 |	RCO	|	Fjärrkommunikationsuttag	|	Remote Communication Outlet	|
 |	REC	|	Ta emot eller Mottagare	|	Receive or Receiver	|
-|	REIL	|	Runway End Identifier Lights	|	Runway End Identifier Lights	|
+|	REIL	|	Ljus vid landningsbanans slut	|	Runway End Identifier Lights	|
 |	RELCTD	|	Omplacerad	|	Relocated	|
 |	REP	|	Rapportera	|	Report	|
-|	RLLS	|	Runway Lead In Light System	|	Runway Lead-In Light System	|
-|	RMNDR	|	Återstoden	|	Remainder	|
+|	RLLS	|	Inflygningsljus |	Runway Lead-In Light System	|
+|	RMNDR	|	Återstod	|	Remainder	|
 |	RMK	|	Anmärkning(ar)	|	Remark(s)	|
 |	RNAV	|	Områdesnavigering	|	Area Navigation	|
 |	RPLC	|	Byta ut	|	Replace	|
@@ -289,12 +289,12 @@ Förkortningar som används i NOTAM
 |	SFL	|	Sekvens blinkande ljus	|	Sequence Flashing Lights	|
 |	SIMUL	|	Samtidig	|	Simultaneous or Simultaneously	|
 |	SIR	|	Packad eller komprimerad snö och is på bana(r)	|	Packed or Compacted Snow and Ice on Runway(s)	|
-|	SKED	|	Schemalagt eller Schemalagt	|	Scheduled or Schedule	|
+|	SKED	|	Schemalagt |	Scheduled or Schedule	|
 |	SLR	|	Slask på bana(r)	|	Slush on Runway(s)	|
 |	SN	|	Snö	|	Snow	|
 |	SNBNK	|	Snöbank/snöbanker orsakade av plogning (fönster)	|	Snowbank/s Caused by Plowing (Windrow(s))	|
-|	SNGL	|	Enda	|	Single	|
-|	SPD	|	Fart	|	Speed	|
+|	SNGL	|	Singel	|	Single	|
+|	SPD	|	Hastighet	|	Speed	|
 |	SSALF	|	Förenklad belysning med kort tillvägagångssätt med sekvensblinkers	|	Simplified Short Approach Lighting with Sequence Flashers	|
 |	SSALR	|	Förenklad belysning för kort inflygning med indikeringsljus för startbanan	|	Simplified Short Approach Lighting with Runway Alignment Indicator Lights	|
 |	SSALS	|	Förenklat belysningssystem med kort inflygning	|	Simplified Short Approach Lighting System	|
@@ -308,10 +308,10 @@ Förkortningar som används i NOTAM
 |	SWEPT	|	Sopat eller kvast(ed)	|	Swept or Broom(ed)	|
 |	T	|	Temperatur	|	Temperature	|
 |	TACAN	|	Tactical Air Navigational Aid (Azimuth och DME)	|	Tactical Air Navigational Aid (Azimuth and DME)	|
-|	TAR	|	Terminal Area Surveillance Radar	|	Terminal Area Surveillance Radar	|
+|	TAR	|	Övervakningsradar Terminalområde |	Terminal Area Surveillance Radar	|
 |	TDWR	|	Terminal Doppler väderradar	|	Terminal Doppler Weather Radar	|
 |	TDZ	|	Touchdown-zon	|	Touchdown Zone	|
-|	TDZ LGT	|	Touchdown Zone Lights	|	Touchdown Zone Lights	|
+|	TDZ LGT	|	Landningszonlysen	|	Touchdown Zone Lights	|
 |	TEMPO	|	Tillfälligt eller tillfälligt	|	Temporary or Temporarily	|
 |	TFC	|	Trafik	|	Traffic	|
 |	TFR	|	Tillfällig flygbegränsning	|	Temporary Flight Restriction	|
@@ -321,7 +321,7 @@ Förkortningar som används i NOTAM
 |	THRU	|	Genom	|	Through	|
 |	THU	|	torsdag	|	Thursday	|
 |	TIL	|	Fram tills	|	Until	|
-|	TKOF	|	Ta av	|	Takeoff	|
+|	TKOF	|	Lyfta	|	Takeoff	|
 |	TM	|	Trafikledning	|	Traffic Management	|
 |	TMPA	|	Varning för trafikledningsprogram	|	Traffic Management Program Alert	|
 |	TRML	|	Terminal	|	Terminal	|
@@ -330,7 +330,7 @@ Förkortningar som används i NOTAM
 |	TSNT	|	Övergående	|	Transient	|
 |	TUE	|	tisdag	|	Tuesday	|
 |	TWR	|	Flygplatskontrolltorn	|	Airport Control Tower	|
-|	TWY	|	Taxiväg	|	Taxiway	|
+|	TWY	|	Taxväg	|	Taxiway	|
 |	UAV	|	Obemannade flygfordon	|	Unmanned Air Vehicles	|
 |	UFN	|	Tills vidare	|	Until Further Notice	|
 |	UNAVBL	|	Inte tillgänglig	|	Unavailable	|
